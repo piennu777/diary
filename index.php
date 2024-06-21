@@ -1,8 +1,8 @@
 <?php
-$servername = "localhost";
-$username = "piennu777";
-$password = "Orion0411";
-$dbname = "diary_db";
+$servername = "";
+$username = "";
+$password = "";
+$dbname = "";
 
 // データベースに接続
 $conn = new mysqli($servername, $username, $password, $dbname);
